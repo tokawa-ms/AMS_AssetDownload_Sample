@@ -1,0 +1,3 @@
+# AMS_AssetDownload_Sample
+Azure Media Services のアセットの中に入っている動画や字幕などのファイル一式をローカルのディレクトリにダウンロードするためのスクリプトのサンプル。
+

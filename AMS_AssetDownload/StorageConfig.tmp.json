@@ -1,0 +1,4 @@
+{
+  "storageConnectionString": "AMSが使っているストレージの接続文字列",
+  "downloadBasePath": "ダウンロード先のパス (パス区切り文字は\\としてエスケープすること。）"
+}
